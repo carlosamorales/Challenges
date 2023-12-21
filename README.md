@@ -38,11 +38,12 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ![image](https://github.com/carlosamorales/Challenges/assets/7796766/17f68c93-2abf-4f85-8977-e69f787a748b)
 
-## License
-
-Please refer to the LICENSE in the repo.
 
 ## Credits
 
 **Reference:** [Tutorial](https://www.semrush.com/blog/semantic-html5-guide/#types-of-html-semantic-tags)
+
+## License
+
+Please refer to the LICENSE in the repo.
 
