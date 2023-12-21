@@ -7,12 +7,12 @@
 body {
     background-color: #d6d8dc;
 }
-
+/* Styling the anchor Elements, hyperlinks*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Adjusting Font size for all Paragraphs */
 p {
     font-size: 16px;
 }
