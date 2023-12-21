@@ -16,6 +16,7 @@ so that our own site is optimized for search engines.
      - Then they fall in sequential order.
    - When I view the title element,
      - Then I find a concise, descriptive title.
+       
 **Link to the page:** [Challenge Week01 Live Page](https://carlosamorales.github.io/Challenges/)
 
 ![image](https://github.com/carlosamorales/Challenges/assets/7796766/17f68c93-2abf-4f85-8977-e69f787a748b)
