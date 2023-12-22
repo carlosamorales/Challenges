@@ -41,7 +41,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Credits
 **Reference:** [Tutorial](https://www.semrush.com/blog/semantic-html5-guide/#types-of-html-semantic-tags)
-Chatgpt
+**Chatgpt**
 
 ## License
 Please refer to the LICENSE in the repo.
